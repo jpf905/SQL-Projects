@@ -1,0 +1,29 @@
+# **Simple Queries**
+
+
+CREATE TABLE oscar_bestpicture ( name TEXT, award_year INTEGER);
+
+INSERT INTO oscar_bestpicture VALUES ('Gladiator', 2000);
+INSERT INTO oscar_bestpicture VALUES ('A Beautiful Mind', 2001);
+INSERT INTO oscar_bestpicture VALUES ('Chicago', 2002);
+INSERT INTO oscar_bestpicture VALUES ('The Lord of the Rings:The Return of the King', 2003);
+INSERT INTO oscar_bestpicture VALUES ('Million Dollar Baby', 2004);
+INSERT INTO oscar_bestpicture VALUES ('Crash', 2005);
+INSERT INTO oscar_bestpicture VALUES ('The Departed', 2006);
+INSERT INTO oscar_bestpicture VALUES ('No Country for Old Men', 2007);
+INSERT INTO oscar_bestpicture VALUES ('Slumdog Millionaire', 2008);
+INSERT INTO oscar_bestpicture VALUES ('The Hurt Locker', 2009);
+INSERT INTO oscar_bestpicture VALUES ('The Kings Speech', 2010);
+INSERT INTO oscar_bestpicture VALUES ('The Artist', 2011);
+INSERT INTO oscar_bestpicture VALUES ('Argo', 2012);
+INSERT INTO oscar_bestpicture VALUES ('Twelve Years A Slave', 2013);
+INSERT INTO oscar_bestpicture VALUES ('Birdman', 2014);
+INSERT INTO oscar_bestpicture VALUES ('Spotlight', 2015);
+INSERT INTO oscar_bestpicture VALUES ('Moonlight', 2016);
+INSERT INTO oscar_bestpicture VALUES ('The Shape of Water', 2017);
+INSERT INTO oscar_bestpicture VALUES ('Green Book', 2018);
+INSERT INTO oscar_bestpicture VALUES ('Parasite', 2019);
+INSERT INTO oscar_bestpicture VALUES ('Nomadland', 2020);
+INSERT INTO oscar_bestpicture VALUES ('Coda', 2021);
+INSERT INTO oscar_bestpicture VALUES ('Everything Everywhere All At Once', 2022);
+INSERT INTO oscar_bestpicture VALUES ('Oppenheimer', 2023)
